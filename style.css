@@ -1,0 +1,21 @@
+body{
+    background: #ff0000;
+}
+h1{
+    font-family: 'Metal Mania', 'sans-serif';
+    display: inline-block;
+    max-width: 100%;
+    font-size: 10vw;
+}
+table{
+    max-width: 750px;
+}
+img{
+   max-width: 50vw;
+}
+#guitar{
+    max-width: 80vw;
+}
+p{
+    font-size: 3vw;
+}
